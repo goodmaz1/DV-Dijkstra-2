@@ -1,5 +1,6 @@
 # DV-Dijkstra-2
 Re-build of the Dijkstra DV project, except this time, the camera is actually facing the right way.
+As you can see, the player just randomly goes up infinitely and I don't know why, but it at least gets to the goal. It just...skips all the other steps to get there.
 
 
 From the OG DV build:
